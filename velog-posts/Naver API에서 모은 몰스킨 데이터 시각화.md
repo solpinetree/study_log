@@ -1,0 +1,1 @@
+<p><a href="https://github.com/solpinetree/ds_study/blob/main/source_code/06.%20Naver%20API.ipynb">https://github.com/solpinetree/ds_study/blob/main/source_code/06.%20Naver%20API.ipynb</a></p>
